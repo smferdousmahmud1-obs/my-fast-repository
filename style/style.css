@@ -5,3 +5,13 @@ div{
     margin: 20px;
     background-color: blueviolet;
 }
+.welcome{
+    font-size: 24px;
+    color: rgb(65, 65, 65);
+    background-color: rgb(21, 223, 155);
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 15px ;}
